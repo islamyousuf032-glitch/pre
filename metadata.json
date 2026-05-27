@@ -1,0 +1,6 @@
+{
+  "name": "Yousuf Unbound",
+  "description": "A cinematic landing page with elegant layout and typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
